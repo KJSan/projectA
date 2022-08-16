@@ -1,0 +1,48 @@
+[33mcommit 27138fab88e2289d793101848b1b14cf81b40f02[m[33m ([m[1;36mHEAD -> [m[1;32mtest-branch[m[33m, [m[1;31morigin/test-branch[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: KJS <kjsani84@gmail.com>
+Date:   Tue Aug 16 12:08:43 2022 +0900
+
+    gitignore crocodyle
+
+[33mcommit c8d0c3634842e8f7644914184dfd2589ab4bf7c3[m
+Author: KJS <kjsani84@gmail.com>
+Date:   Tue Aug 16 12:00:12 2022 +0900
+
+    add lion
+
+[33mcommit 15e00a4fb39f8b6c02439b48d1a04b2f66034597[m
+Merge: 001635f 4050e50
+Author: KJS <kjsani84@gmail.com>
+Date:   Tue Aug 16 11:36:16 2022 +0900
+
+    dog_conflict
+
+[33mcommit 4050e50f508098948ae1cdb45c2e8ff26f9bcb61[m
+Author: KJS <kjsani84@gmail.com>
+Date:   Tue Aug 16 11:35:11 2022 +0900
+
+    dog_add
+
+[33mcommit 001635fae20343d82414483022cd3eadf489a405[m
+Author: KJS <kjsani84@gmail.com>
+Date:   Tue Aug 16 11:34:02 2022 +0900
+
+    dog_frodo
+
+[33mcommit 69dca39f25cc641326048e35aae3fabc07ceea19[m
+Author: KJS <kjsani84@gmail.com>
+Date:   Tue Aug 16 11:14:44 2022 +0900
+
+    modify mouse
+
+[33mcommit e7104e633442e03bd6a5372aae5ab9ec9f4fc0ce[m
+Author: KJS <kjsani84@gmail.com>
+Date:   Tue Aug 16 10:19:20 2022 +0900
+
+    add dog
+
+[33mcommit 88337dc83461bb27072f2557b89704f71cade739[m
+Author: KJS <kjsani84@gmail.com>
+Date:   Tue Aug 16 10:17:36 2022 +0900
+
+    first commit
